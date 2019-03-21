@@ -13,7 +13,7 @@ class Patient
   end
 
   def doctors
-
+    self.
   end
 
   def appointments
